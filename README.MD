@@ -2,4 +2,5 @@
 
 * Creation of electrical circuit tester that measures continuity checking breaks in the wirepath.
 * HTML5 boilerplate added
-* Setup canvas background-color to simulate AutoCAD workspace
+* Setup/ canvas background-color to simulate AutoCAD workspace
+* Setup/ created includes dir, init.php, database.php, session.php, and functions.php files
