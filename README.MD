@@ -4,3 +4,4 @@
 * HTML5 boilerplate added
 * Setup/ canvas background-color to simulate AutoCAD workspace
 * Setup/ created includes dir, init.php, database.php, session.php, and functions.php files
+* Converted index.html to index.php
