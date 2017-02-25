@@ -8,3 +8,4 @@
 * Renamed init.php to config.php and added database connection codes to database.php
 * Recreated init.php setting up multiple include file constants to initiate single include
   capability to all include files
+* Added speaker images and CLI sql queries to create Nacs table and speakers
