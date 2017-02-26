@@ -7,5 +7,5 @@ defined('LIB_PATH') ? NULL : define('LIB_PATH', SITE_ROOT.DS.'includes');
 require_once(LIB_PATH.DS.'config.php');
 require_once(LIB_PATH.DS.'database.php');
 require_once(LIB_PATH.DS.'session.php');
-require_once(LIB_PATH.S.'functions.php');
+require_once(LIB_PATH.DS.'functions.php');
 ?>
